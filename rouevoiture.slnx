@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rouevoiture/rouevoiture.vcxproj" Id="d1a37e4e-b1c9-44ca-8945-0f9f63b1a757" />
+</Solution>
